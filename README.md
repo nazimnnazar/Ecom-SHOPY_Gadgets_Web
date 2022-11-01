@@ -1,7 +1,7 @@
 
 # 📡Ecommers_PKart
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <br/>
-A Full Stack Web  created using Django with full E-Commerce Functionality!!
+A Full Stack Web created using Python & Django with full E-Commerce Functionality!!
 
 ## Future Features
 
@@ -12,7 +12,6 @@ A Full Stack Web  created using Django with full E-Commerce Functionality!!
 - Cart
 - Login / Register
 - Contact 
-- 
 
 
 # ✨ Other
