@@ -3,6 +3,18 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <br/>
 A Full Stack Web  created using Django with full E-Commerce Functionality!!
 
+## Future Features
+
+- Home (List products)
+- Detail products
+- Product category
+- Recommended products
+- Cart
+- Login / Register
+- Contact 
+- 
+
+
 # ✨ Other
 * This project is free and open source,
 * You can contribute to this project by proposing pull requests.
