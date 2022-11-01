@@ -12,7 +12,7 @@
 
 A Full Stack Web created using Python & Django with full E-Commerce Functionality!!
 
-## Future Features
+## 🚀  Future Features
 
 - Home (List products)
 - Detail products
