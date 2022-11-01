@@ -28,6 +28,19 @@ A Full Stack Web created using Python & Django with full E-Commerce Functionalit
 * This project is free and open source,
 * You can contribute to this project by proposing pull requests.
 
+## About this Project:
+I'll be happy if you provide any feedback or code improvements or suggestions.
+
+Connect with me at:
+
+<p align='center'>
+    
+  <a href="https://www.linkedin.com/in/nazim-n-nazar-94113b243/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;  
+</p>
+
+
 # ScreenShot
 ![Screenshot (211)](https://user-images.githubusercontent.com/112808009/199175495-5a78d719-20ae-4e99-b4ad-b0c74117d8b8.png)
 ![photo_2022-11-01_12-03-01](https://user-images.githubusercontent.com/112808009/199175551-f4c4b5e3-0a6f-4677-85bd-93e77a6e9d9b.jpg)
