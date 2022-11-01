@@ -12,6 +12,7 @@ A Full Stack Web created using Python & Django with full E-Commerce Functionalit
 - Cart
 - Login / Register
 - Contact 
+- Profile
 
 
 # ✨ Other
