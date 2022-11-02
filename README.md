@@ -1,5 +1,5 @@
 
-# 📡Shopy
+# 📡SHOPY.
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <br/>
 <p align='center'>
 <img src="https://img.shields.io/badge/Django-239120?logo=django&logoColor=white" />
