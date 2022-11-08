@@ -1,4 +1,3 @@
-from email import message
 from .models import*
 #cart
 from django.shortcuts import render,redirect,get_object_or_404
@@ -7,6 +6,8 @@ from django.core.exceptions import ObjectDoesNotExist
 #Register
 from .forms import CreateUserForm
 from django.contrib.auth import authenticate,login,logout
+# Messages
+from email import message
 from django.contrib import messages
 #endregister
 # Create your views here.
