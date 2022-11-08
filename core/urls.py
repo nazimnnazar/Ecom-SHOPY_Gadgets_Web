@@ -17,6 +17,7 @@ urlpatterns = [
     path('login/',views.signin,name='login'),
     path('logout/',views.logoutuser,name='logout'),
     path('profile/',views.profile,name='profile'),
+    #Accounts
     path('add/',views.add,name='add'),
     path('<slug:c_slug>/',views.home,name='prod'),
     path('<slug:c_slug>/<slug:product_slug>',views.views,name='views'),
