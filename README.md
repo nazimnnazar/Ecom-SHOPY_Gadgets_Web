@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 </p>
 
+
 A Full Stack Web created using Python & Django with full E-Commerce Functionality!!
 This site where everyone gets everything they need. PKart allows users to buy items of their choice from a wide range of products such as  gadgets, Gaming Products,Shoes and many more.
 
